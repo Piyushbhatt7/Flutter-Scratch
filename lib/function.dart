@@ -15,5 +15,4 @@ void main(){
   obj.func(); // function caling
   obj.func1("Are good"); // passing argument to a function
 
-
 }
