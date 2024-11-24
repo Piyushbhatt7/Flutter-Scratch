@@ -22,4 +22,9 @@ void main() {
 
    num pointValue = 44.2; // num also work as a double
    print(pointValue);
+
+   bool isLogin = false; // bollean returns true or false
+
+   isLogin = true;
+   print(isLogin);
 }
