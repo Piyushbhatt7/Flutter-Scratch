@@ -20,11 +20,13 @@ void main() {
    double percentage = 99.99; // double stores he float or point value for example = 44.3. 66.3. 1.2.
    print(percentage);
 
-   num pointValue = 44.2; // num also work as a double
+   num pointValue = 44.2; // num and var also work as a double
    print(pointValue);
 
    bool isLogin = false; // bollean returns true or false
 
    isLogin = true;
    print(isLogin);
+
+
 }
