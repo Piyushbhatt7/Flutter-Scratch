@@ -16,4 +16,7 @@ void main() {
 
    longValue = BigInt.parse('54434423435456654345'); // to store the largest value we use the BigInt
    print(longValue);
+
+   double percentage = 99.99; // double stores he float or point value for example = 44.3. 66.3. 1.2.
+   print(percentage);
 }
