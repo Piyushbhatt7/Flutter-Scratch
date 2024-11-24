@@ -7,4 +7,6 @@ void main() {
 
    int b = 5;
    print(b); // assign the right hand side value to left hand side variable!
+
+   String name = "Lion"; // inline variable declaration
 }
