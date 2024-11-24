@@ -4,7 +4,7 @@ void main(){
   print("The sum is $result");
 }
 
-int func() {
+int func() { // this function will be return type
 
   int a,b;
   a=5;
