@@ -10,7 +10,7 @@ void main() {
 
    String name = "Lion"; // inline variable declaration
 
-   int x = 54434423435456654345; // int cannot store this value
+   // int x = 54434423435456654345; // int cannot store this value
 
    BigInt longValue;
 
