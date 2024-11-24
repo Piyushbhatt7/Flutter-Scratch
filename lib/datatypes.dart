@@ -19,4 +19,7 @@ void main() {
 
    double percentage = 99.99; // double stores he float or point value for example = 44.3. 66.3. 1.2.
    print(percentage);
+
+   num pointValue = 44.2; // num also work as a double
+   print(pointValue);
 }
