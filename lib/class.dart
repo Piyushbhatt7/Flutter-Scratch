@@ -6,5 +6,5 @@
  }
 
  void main(){
-   new Human();
+   new Human(); // also create a constructor without the new keyword
  }
