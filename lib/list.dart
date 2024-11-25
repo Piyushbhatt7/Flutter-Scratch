@@ -5,7 +5,7 @@ void main(){
   print(list); // print the list element [1,2,3,4,5]
 
   var list1 = []; // blank all
-  list1.add("Learning Dart");
+  list1.add("Learning Dart"); // adding element to blank list
   list1.addAll(list); // .addAll use to add all elements
   print(list1);
 }
