@@ -12,4 +12,12 @@ void main(){
    map_name['Key1'] = 12.22; // overriding the value
 
    print(map_name['Key1']); // mind the case-sensitive words
+   print(map_name.isEmpty); 
+   print(map_name.isNotEmpty); 
+   print(map_name.length); 
+   print(map_name.values); 
+   print(map_name.containsKey('key1')); 
+   print(map_name.containsValue(2)); 
+
+
 }
