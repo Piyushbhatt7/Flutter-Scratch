@@ -11,5 +11,5 @@ class defult_constructor {
 
 void main(){
    defult_constructor obj = defult_constructor();
-   //obj.func(); // no
+   
 }
