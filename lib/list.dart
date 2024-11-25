@@ -8,4 +8,5 @@ void main(){
   list1.add("Learning Dart"); // adding element to blank list
   list1.addAll(list); // .addAll use to add all elements
   print(list1);
+
 }
