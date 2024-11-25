@@ -1,4 +1,4 @@
-class Defult constructor {
+class defult_constructor {
     
     void func(){
       var num1 = 78;
@@ -7,4 +7,9 @@ class Defult constructor {
       var sum = num1+num2;
       print("The sum of $num1 and $num2 is = $sum");
     }
+}
+
+void main(){
+   defult_constructor obj = defult_constructor();
+   obj.func();
 }
