@@ -5,7 +5,8 @@ void main() {
    name.insert(2, "Neymar"); // inserting element to index 2 [ index starts = 0 1 2 3 ...... n ]
    name.insertAll(5, number); // inserAll add the all element of another list but the list shoul be "dynamic"!
    name[2] = 'Modric';
-   name.removeLast(); // remove the last list element
+  // name.removeLast(); // remove the last list element
+  name.remove('Ramos'); // remove the particular element of your choice
    print(name);
 
    
