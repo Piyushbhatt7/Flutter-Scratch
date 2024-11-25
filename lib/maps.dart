@@ -9,5 +9,7 @@ void main(){
 
    };
 
-   print(map_name['Key2']); // mind the case-sensitive words
+   map_name['Key1'] = 12.22; // overriding the value
+
+   print(map_name['Key1']); // mind the case-sensitive words
 }
