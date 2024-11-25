@@ -1,6 +1,6 @@
 class defult_constructor {
     
-    void func(){
+    defult_constructor(){
       var num1 = 78;
       var num2 = 67.8;
 
@@ -11,5 +11,5 @@ class defult_constructor {
 
 void main(){
    defult_constructor obj = defult_constructor();
-   obj.func();
+   //obj.func(); // no
 }
