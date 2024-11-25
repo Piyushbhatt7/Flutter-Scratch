@@ -6,4 +6,6 @@ void main(){
     print(name1);
     print(name);
 
+    const name2 = "Zumbada"; // const keyword value assign in that time inline decelaration
+
 }
