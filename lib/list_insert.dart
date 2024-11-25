@@ -8,6 +8,7 @@ void main() {
   // name.removeLast(); // remove the last list element
   // name.remove('Ramos'); // remove the particular element of your choice
  // name.removeAt(3); // remove element of given index
+    name.removeRange(0, 4); // remove the element from 0 to 4 but "index start from 1 to 3"
    print(name);
 
    
