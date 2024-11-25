@@ -1,6 +1,6 @@
 class defult_constructor {
     
-    defult_constructor(){ // same na
+    defult_constructor(){ // same name as function name
       var num1 = 78;
       var num2 = 67.8;
 
