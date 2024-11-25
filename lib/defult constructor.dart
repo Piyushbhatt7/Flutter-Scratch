@@ -1,6 +1,6 @@
 class defult_constructor {
     
-    defult_constructor(){
+    defult_constructor(){ // same na
       var num1 = 78;
       var num2 = 67.8;
 
@@ -10,6 +10,6 @@ class defult_constructor {
 }
 
 void main(){
-   defult_constructor obj = defult_constructor();
+   defult_constructor obj = defult_constructor();// when object is created the constructor automatically called
    
-}
+} 
