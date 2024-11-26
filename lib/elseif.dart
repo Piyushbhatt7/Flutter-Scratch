@@ -12,4 +12,8 @@ void main(){
    else if(a>80) {
       // condition 3 is true
    }
+
+   else{
+     // all condition are false
+   }
 }
