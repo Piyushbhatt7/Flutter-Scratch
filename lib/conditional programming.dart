@@ -6,6 +6,6 @@ void main(){
       print(true);
    }
    else{
-      print(false);  
+      print(false);// 100 is not greater then 200 it return false
    }
 }
