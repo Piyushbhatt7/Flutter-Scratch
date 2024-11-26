@@ -7,5 +7,7 @@ void main(){
     print(name);
 
     const name2 = "Zumbada"; // const keyword value assign in that time inline decelaration
+   print(name2);
+
 
 }
